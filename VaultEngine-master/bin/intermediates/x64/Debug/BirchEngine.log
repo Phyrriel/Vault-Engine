@@ -1,0 +1,12 @@
+﻿  AssetManager.cpp
+C:\Users\Danie\Downloads\BirchEngine-master\BirchEngine\Src\AssetManager.h(8,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  Collision.cpp
+C:\Users\Danie\Downloads\BirchEngine-master\BirchEngine\Src\AssetManager.h(8,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  Game.cpp
+C:\Users\Danie\Downloads\BirchEngine-master\BirchEngine\Src\AssetManager.h(8,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  main.cpp
+  Map.cpp
+C:\Users\Danie\Downloads\BirchEngine-master\BirchEngine\Src\AssetManager.h(8,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  TextureManager.cpp
+  Vector2D.cpp
+  Generating Code...
